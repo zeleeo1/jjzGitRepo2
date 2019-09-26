@@ -4,12 +4,14 @@
 # $ sh /u/jjzALL/myGitALL/git_scripts/xyz.sh
 #
 #
+# there will be more than many ways to to this task...
 echo "let's go"
 
 git config --global user.email "jjz62@yahoo.com"
 git config --global user.name "jun_zhao_dell_1"
 
 rm -rf .git
+# this is a powerful clean up
 
 git init
 git add .
@@ -25,8 +27,12 @@ repo_url='https://github.com/zeleeo1/jjzGitRepo2.git'
 #git remote remove origin https://github.com/zeleeo1/jjzGitRepo2.git - no need to append a name
 #
 git remote add origin $repo_url
+
+
 #git-22 push -u origin master -f
+# using -f may be too powerful to clean up all (old stuff), be careful
 git push -u origin master -f
+
 # do a pause
 read -p "Press [Enter] key to close console........................"
 echo "this echo will never be seen, unless you have a really slow computer"
