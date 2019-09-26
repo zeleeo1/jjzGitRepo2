@@ -7,8 +7,8 @@
 #cd /u/jjzALL/myGitALL
 pwd
 git add .
-git commit -m 'no comment'
-#git commit -am 'no comment'
+#git commit -m 'no comment'
+git commit -am 'no comment'
 git push
 # do a pause
 read -p "Press [Enter] key to close console........................"
