@@ -3,7 +3,7 @@
 # $ sh /u/jjzALL/myGitALL/git_scripts/xyz.sh
 #
 # this file is still not working? 10.2019
-#
+# with the 
 echo now showing remote versions...
 git remote -v
 echo
