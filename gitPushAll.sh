@@ -5,7 +5,15 @@
 #
 git add .
 #git commit -m 'no comment'
-git commit -am 'no comment'
+
+# --amend will open VIM
+git commit --amend '10.1.2:38'
+
+#--no-edit avoid edit message dialog - not a good idea?
+#git commit --amend --no-edit
+
+# doing this in a script in no-good at all
+#git log
 
 #git push
 # to work around the - fatal: No configured push destination 
