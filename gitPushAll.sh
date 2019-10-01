@@ -10,7 +10,7 @@ git commit -am 'no comment'
 #git push
 # to work around the - fatal: No configured push destination 
 
-repo_url='https://github.com/zeleeo1/jjzGitRepo2.git'
+repo_url='git@github.com:zeleeo1/jjzGitRepo2.git'
 git push --set-upstream $repo_url master:master 
 
 # do a pause
