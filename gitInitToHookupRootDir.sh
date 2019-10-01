@@ -15,7 +15,7 @@ rm -rf .git
 
 git init
 git add .
-git commit -am 'init from root-4'
+git commit -am 'init from ...'
 
 repo_url='https://github.com/zeleeo1/jjzGitRepo2.git'
 #echo $repo_url
@@ -30,8 +30,9 @@ git remote add origin $repo_url
 
 
 #git-22 push -u origin master -f
-# using -f may be too powerful to clean up all (old stuff), be careful
+# using -f may be too powerful to clean up all (old stuff), be careful, but very useful many times
 git push -u origin master -f
+
 
 # do a pause
 read -p "Press [Enter] key to close console........................"
