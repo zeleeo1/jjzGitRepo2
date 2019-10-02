@@ -1,7 +1,0 @@
-some text.
-
-<<<<<<< HEAD - leave it 
-
-SSH
-
-asd,gnasg
