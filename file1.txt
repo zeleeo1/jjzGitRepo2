@@ -4,7 +4,7 @@ add line ABC
 
 a changable l-1 - adding some txt from branch - hotfix1
 
-a changable l-2
+a changable l-2 - modifed from feature_1
 
 a changable l-3
 
