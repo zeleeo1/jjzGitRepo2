@@ -4,6 +4,7 @@ an un-changable baseline from master
 a modifing from master changable ccc l-1
 
 a changable l-2
+repeated words from line-above from master changable l-2
 
 a changable l-3
 
