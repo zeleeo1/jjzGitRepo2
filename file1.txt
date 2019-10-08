@@ -1,7 +1,10 @@
 an un-changable baseline from master
 
 
+
 a modifing from master changable ccc l-1
+a changable l-1 - adding some txt from branch - hotfix1
+
 
 a changable l-2
 repeated words from line-above from master changable l-2
@@ -11,4 +14,4 @@ a changable l-3
 add another line from master - changed 2 time - changed from repo-2-master
 add another line from master - changed 2 time - changed from repo-1-master
 
-add xyz line
+add another line from master - modifying-num-1
