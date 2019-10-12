@@ -1,17 +1,13 @@
 an un-changable baseline from master
 
-<<<<<<< HEAD
 modified line A from another master time-1
-=======
 modified line A from master time-1
->>>>>>> 775f4f7ec621e5b659f84b87d4092e64486b5df3
 
 a modifing from master changable ccc l-1
 a changable l-1 - adding some txt from branch - hotfix1
 
 
 a changable l-2
-repeated words from line-above from master changable l-2
 
 a changable l-3
 
