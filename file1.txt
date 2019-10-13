@@ -2,11 +2,12 @@ an un-changable baseline from master
 
 modified line A from another master time-1
 modified line A from master time-1
-modified line A from m2 time-1
+modified line A from master time-1 - by m22
 
 del 2 line from m2
 
-a changable l-2
+a changable l-2 - by m22
+repeated words from line-above from master changable l-2
 
 a changable l-3
 
