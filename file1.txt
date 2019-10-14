@@ -1,6 +1,6 @@
 an un-changable baseline from master
 
-modified line A from another master time-1
+modified line A from another master time-1 --from an old master
 modified line A from master time-1
 
 a modifing from master changable ccc l-1
