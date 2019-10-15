@@ -1,0 +1,52 @@
+89982a2 HEAD@{0}: merge origin/master: Merge made by the 'recursive' strategy.
+ad109ed HEAD@{1}: commit: merge (not rebase) from m-1 at Mon, Oct 14, 2019 6:48:40 PM
+df6cc48 HEAD@{2}: commit: some comment at Sat, Oct 12, 2019 6:32:07 PM
+a5fcc30 HEAD@{3}: rebase finished: returning to refs/heads/master
+a5fcc30 HEAD@{4}: rebase: checkout origin/master
+775f4f7 HEAD@{5}: commit: some comment at Thu, Oct 10, 2019 9:21:42 PM
+16cb065 HEAD@{6}: commit: some comment at Thu, Oct 10, 2019 9:18:48 PM
+03aba7a HEAD@{7}: commit: some comment at Thu, Oct 10, 2019 8:57:12 PM
+7739704 HEAD@{8}: checkout: moving from master to master
+7739704 HEAD@{9}: rebase: aborting
+89b9dbd HEAD@{10}: rebase -i (start): checkout HEAD~4
+7739704 HEAD@{11}: checkout: moving from head-fix to master
+a95ae67 HEAD@{12}: checkout: moving from master to head-fix
+7739704 HEAD@{13}: merge head-fix: Merge made by the 'recursive' strategy.
+3049b11 HEAD@{14}: checkout: moving from head-fix to master
+a95ae67 HEAD@{15}: commit: commit fro new_2 file at Wed, Oct 09, 2019 3:48:51 PM
+8ab67da HEAD@{16}: commit: commit from branch head-fx at Wed, Oct 09, 2019 1:55:28 PM
+3b430b6 HEAD@{17}: reset: moving to origin/head-fix
+d57c9a1 HEAD@{18}: checkout: moving from master to head-fix
+3049b11 HEAD@{19}: commit (merge): ready to merge
+89b9dbd HEAD@{20}: pull: Fast-forward
+3b430b6 HEAD@{21}: rebase: aborting
+d57c9a1 HEAD@{22}: commit (merge): some comment at Mon, Oct 07, 2019 6:36:38 PM
+3b430b6 HEAD@{23}: checkout: moving from master to head-fix
+3b430b6 HEAD@{24}: checkout: moving from head-fix to master
+3b430b6 HEAD@{25}: checkout: moving from master to head-fix
+3b430b6 HEAD@{26}: checkout: moving from 5ee3a5c796d16cd8fac41cb4cde99e2747ccaffb to master
+5ee3a5c HEAD@{27}: commit (merge): forced another commit at Mon, Oct 07, 2019 6:04:59 PM
+35d422b HEAD@{28}: commit: some comment at Mon, Oct 07, 2019 5:46:39 PM
+948deed HEAD@{29}: rebase: checkout refs/remotes/origin/master
+3b430b6 HEAD@{30}: commit: some comment at Mon, Oct 07, 2019 4:38:46 PM
+c3e05c4 HEAD@{31}: commit: some comment at Mon, Oct 07, 2019 4:02:57 PM
+0565550 HEAD@{32}: commit: some comment at Sun, Oct 06, 2019 6:33:15 PM
+4490360 HEAD@{33}: commit: some comment at Sun, Oct 06, 2019 5:59:21 PM
+3db1e61 HEAD@{34}: checkout: moving from fix-detached-HEAD to master
+1f3aa8a HEAD@{35}: commit (merge): some comment
+1b85855 HEAD@{36}: checkout: moving from master to fix-detached-HEAD
+3db1e61 HEAD@{37}: commit (amend): test - this is another very ok
+5b303a3 HEAD@{38}: commit (amend): test - this is another very ok
+deab2b8 HEAD@{39}: checkout: moving from master to master
+deab2b8 HEAD@{40}: commit (amend): this is another very ok
+9739fda HEAD@{41}: commit (amend): this is very ok
+9739fda HEAD@{42}: commit (amend): this is ok
+9739fda HEAD@{43}: checkout: moving from master to master
+9739fda HEAD@{44}: commit: ok
+d7de147 HEAD@{45}: commit (amend): this comment is 10.1.2:38
+fd932f8 HEAD@{46}: commit (amend): 10.1.2:38
+a4fe850 HEAD@{47}: commit: 10.1.2:38
+8bc90e9 HEAD@{48}: commit: no comment
+70ba087 HEAD@{49}: commit: no comment
+4a0871a HEAD@{50}: commit: no comment
+2fb8e61 HEAD@{51}: clone: from git@github.com:zeleeo1/jjzGitRepo2.git

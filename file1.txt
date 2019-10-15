@@ -1,6 +1,12 @@
 an un-changable baseline from master
 
+<<<<<<< 89982a206f008e0d16eea725fff9c3c992778fbd
 modified line A from another master time-1 --from an old master
+=======
+add-A
+
+modified line A from another master time-1
+>>>>>>> add-A
 modified line A from master time-1
 modified line A from master time-1 - by m22
 
