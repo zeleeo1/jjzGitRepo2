@@ -3,8 +3,8 @@ an un-changable baseline from master
 modified line A from another master time-1 --from an old master
 
 =======
-add-A - from pvt_b1
-add-B - from pvt_b1
+add-A - from pvt_b1 - from pub_1
+add-B - from pvt_b1 - from pub_1
 add-C - from pvt_b1 at $(date)
 =======
 
