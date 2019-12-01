@@ -1,5 +1,7 @@
 an un-changable baseline from master
 
+add something new 
+
 modified line A from another master time-1 --from an old master
 
 =======
